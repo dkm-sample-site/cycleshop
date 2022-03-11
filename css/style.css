@@ -87,7 +87,7 @@
   background: radial-gradient(midnightblue, mediumblue, midnightblue);
   */
   background: radial-gradient(red, darkred);
-  border-radius: 0.5em;
+  border-radius: 0.2em;
   color: white;
 }
 
@@ -164,7 +164,7 @@
   flex: 1 1 auto;
   min-height: 1px;
   padding: 1.25rem;
-  height: 250px;
+  height: 200px;
 }
 .dkm-smallcard-body {
   -ms-flex: 1 1 auto;
